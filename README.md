@@ -43,3 +43,6 @@ lsof -i :8050
 
 # Terminate the process by replacing <PID> with the actual process ID
 kill <PID>
+```
+
+For Accident Forecasting with Machine Learning, run `accident_forecast.ipynb` code blocks in sequence.
